@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "reutils"]
+	path = reutils
+	url = https://github.com/gschofl/reutils
+	shallow = true
+	registered = true
